@@ -1,0 +1,9 @@
+.heading{
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 25px;
+}
+canvas{
+    border-radius: 20px;
+    border-width: 5px;
+}
